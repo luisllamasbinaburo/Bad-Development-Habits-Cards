@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "450f765342854433",
+    "type": "split",
+    "children": [
+      {
+        "id": "c142f7471f4244d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 ReadMe.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09ef2c23e5ed3841",
+    "type": "split",
+    "children": [
+      {
+        "id": "baa830059dd22e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc83fdbcdd9b0c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b27764b584aa0a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 180
+  },
+  "right": {
+    "id": "3a5e3a4b25ebcb87",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2f1f375d1a42cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2a5bf2fcd6c6e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 ReadMe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c142f7471f4244d9"
+}

@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "id": "1efd881e-44ba-45b9-97be-663c345c462d",
+      "name": "Add Card",
+      "type": "Template",
+      "command": true,
+      "templatePath": "_templates/Card Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Cards"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
